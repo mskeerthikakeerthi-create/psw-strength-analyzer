@@ -1,0 +1,39 @@
+# Password Strength Analyzer
+
+## Project Description
+Password Strength Analyzer is a Python-based cybersecurity project that checks the strength of user passwords.
+
+The tool analyzes passwords based on:
+- Password length
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
+
+It also suggests stronger passwords for weak passwords.
+
+---
+
+## Features
+- Detects Weak, Medium, and Strong passwords
+- Checks password complexity
+- Suggests secure passwords
+- Beginner-friendly cybersecurity project
+
+---
+
+## Technologies Used
+- Python
+- Regular Expressions (Regex)
+
+---
+
+## How to Run the Project
+
+1. Install Python
+2. Open the project folder in VS Code
+3. Open Terminal
+4. Run the following command:
+
+```bash
+python main.py
